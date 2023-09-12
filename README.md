@@ -3,7 +3,7 @@
 #
 
 - :muscle: Currently working on my Final Year Project.
-- :trophy: 2022 Goals: Contribute and publish more open source projects.
+- :trophy: 2023 Goals: Contribute and publish more open source projects.
 - :coffee: Turning Cardemon tea's into code since 2020.
 - :gift_heart: Check out my resume here.
 
