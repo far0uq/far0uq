@@ -9,6 +9,6 @@
 # Tech I've Worked With
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,sass,bootstrap,javascript,react,svelte,nodejs,express,python,django,flask,mongodb,mysql,postman,docker,aws,kubernetes,github,netlify,vercel&perline=7" />
+    <img src="https://skillicons.dev/icons?i=figma,sass,bootstrap,javascript,react,svelte,nodejs,express,python,django,flask,solidity,mongodb,mysql,postman,docker,aws,kubernetes,github,netlify,vercel&perline=7" />
   </a>
 </p>
