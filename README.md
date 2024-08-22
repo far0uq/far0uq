@@ -3,7 +3,7 @@
 #
 
 - 💪 Passionate learner, always hungry for new knowledge.
-- ☕ Sipping Cardamom tea and writing code since 2020.
+- ☕ Sipping tea and writing code since 2020.
 - 🌱 Growing into a better engineer with every project.
 
 # Tech I've Worked With
